@@ -1,0 +1,5 @@
+domain:
+  main: dns-rebind.io
+  ns: [ns1.app.io, ns2.app.io]
+  ip: 1.1.1.8
+  rebind: 127.0.0.1
